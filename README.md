@@ -13,6 +13,10 @@ A backend E-Commerce application for an imaginary business with very few product
 
 ## Usage
 
+
+https://github.com/Umbelth94/E-Commerce-Backend/assets/71855947/3ae5ea5d-52f8-4198-9401-992bf617fea4
+
+
 This app does nothing on it's own.  You will need an API client such as Insomnia or Postman to interact with the different API routes.  See the attached video to see the proper routes and CRUD functions for each API route
 
 ## Credits
